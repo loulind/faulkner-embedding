@@ -1,5 +1,5 @@
 ---
-title: "Final Report: Embedding Analysis of 'The Sound and the Fury'"
+title: "Visualizing narrator perspective: comparing t-SNE and UMAP projections of Faulkner's 'The Sounds and the Fury'"
 author: "Lou Lindsley"
 date: "2025-12-03"
 output: html_document
